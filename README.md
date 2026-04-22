@@ -32,4 +32,7 @@ Release notes are published quarterly and highlight:
 - Notable fixes and maintenance work aftecting previously available genomes / pages
 
 ---
-# Visit the Genome Portal:<a href="https://genomes.atcc.org/" target="_blank"><img src="AGP-assets/images/genome_portal_728x90.jpg" width="800" style="display: block; margin: 0 auto;">
+## Visit the ATCC&reg; Genome Portal
+<a href="https://genomes.atcc.org/" target="_blank">
+  <img src="AGP-assets/images/genome_portal_728x90.jpg" width="800">
+</a>
