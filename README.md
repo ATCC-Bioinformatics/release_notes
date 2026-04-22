@@ -1,5 +1,4 @@
-<img src="AGP-assets/images/DNA-iStock-656959066.jpg" width="700">
-<br>
+<img src="AGP-assets/images/DNA-iStock-656959066.jpg" width="100%" height="100%">
 
 # ATCC&reg; Genome Portal – Release Notes
 
