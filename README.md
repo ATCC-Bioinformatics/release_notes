@@ -34,5 +34,5 @@ Release notes are published quarterly and highlight:
 ---
 ## Visit the ATCC&reg; Genome Portal
 <a href="https://genomes.atcc.org/" target="_blank">
-  <img src="AGP-assets/images/genome_portal_728x90.jpg" width="800">
+  <img src="AGP-assets/images/genome_portal_banner.jpg" width="800">
 </a>
