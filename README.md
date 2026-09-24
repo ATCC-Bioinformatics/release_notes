@@ -10,16 +10,17 @@ Here you’ll find a quarterly summary of new data releases, platform enhancemen
  
 ## Latest Release
 
-### **Q1 2026 – March 27, 2026**
-**252 new microbial genome pages**, **152 new Cell Biology datasets**, and expanded coverage across bacteria, viruses, fungi, and phages.
+### **Q3 2026 – Sept 25, 2026**
+**250 new microbial genome pages**, **152 new Cell Biology datasets**, and expanded coverage across bacteria, viruses, fungi, and phages.
 
-➡️ [**Q1 Release Notes**](AGP-releases/2026-Q1.md)
+➡️ [**Q2 Release Notes**](AGP-releases/2026-Q2.md)
 
 ---
 
 ## Previous Releases
 
-Pardon our dust while we populate previous releases 🧹
+[**Q1 2026 Release Notes**](AGP-releases/2026-Q1.md)  
+[**Q2 2026 Release Notes**](AGP-releases/2026-Q2.md)
 
 ---
 
