@@ -1,12 +1,12 @@
 <img src="AGP-assets/images/DNA-iStock-656959066.jpg" width="100%" height="100%">
 
-# ATCC&reg; Genome Portal – Release Notes
+# ATCC Genome Portal – Release Notes
 
-Welcome to the official release notes for the **ATCC&reg; Genome Portal (AGP)**.
+Welcome to the official release notes for the **ATCC Genome Portal (AGP)**.
 
 Here you’ll find a quarterly summary of new data releases, platform enhancements, and updates to the portal and its underlying pipelines.
 
-### <a href="https://www.atcc.org/applications/reference-quality-data/discover-the-atcc-genome-portal" target="_blank" rel="noopener noreferrer">Learn more about the ATCC&reg; Genome Portal</a>
+### <a href="https://www.atcc.org/applications/reference-quality-data/discover-the-atcc-genome-portal" target="_blank" rel="noopener noreferrer">Learn more about the ATCC Genome Portal</a>
  
 ## Latest Release
 
@@ -33,7 +33,7 @@ Release notes are published quarterly and highlight:
 - Notable fixes and maintenance work aftecting previously available genomes / pages
 
 ---
-## Visit the ATCC&reg; Genome Portal
+## Visit the ATCC Genome Portal
 <a href="https://genomes.atcc.org/" target="_blank">
   <img src="AGP-assets/images/genome_portal_banner.jpg" width="800" target="_blank" rel="noopener noreferrer">
 </a>
