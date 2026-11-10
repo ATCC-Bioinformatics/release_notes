@@ -10,6 +10,14 @@ Here you’ll find a quarterly summary of new data releases, platform enhancemen
  
 ## Latest Release
 
+### **RNA-seq Data Correction – Nov 10, 2026**
+- **FPKM and TPM values corrected** for **745** cell biology catalog numbers (692 human, 53 mouse), raw counts did not change.
+- **2 sets of samples moved to the correct catalog numbers**: 5 replicates of CCL-120.1 and 4 replicates of CRL-11268G-1.
+- **No new datasets** are included in this release.
+
+➡️ [**RNA-seq Data Correction Notes**](AGP-releases/2026-Nov-RNA-seq-Data-Correction.md)
+
+
 ### **Q3 2026 – Sept 25, 2026**
 **250 new microbial genome pages**, **43 new cell biology catalog pages**, and expanded coverage across bacteria, viruses, fungi, and phages.
 
